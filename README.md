@@ -21,10 +21,10 @@
 
 ## Live Demo
 
-- [Live Demo](https://app.netlify.com/projects/employees-dashboard12/deploys)
+- [Live Demo](https://employees-dashboard12.netlify.app/)
 
 - [GDrive](https://drive.google.com/drive/folders/1iooUxAk_YHtG_0A3wR6e4f4iVlZNuNgC?usp=sharing)
-  
+- 
 ## Login Credentials
 Username: testuser  
 Password: Test123
