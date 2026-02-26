@@ -3,7 +3,7 @@ import Login from "./pages/Login";
 import List from "./pages/List";
 import Details from "./pages/Details";
 import PhotoResult from "./pages/PhotoResult";
-import Navbar from "./Components/Navbar";
+import Navbar from "./components/Navbar";
 import Graph from "./pages/Graph";
 import MapPage from "./pages/MapPage";
 import ProtectedRoutes from "./components/ProtectedRoutes";
